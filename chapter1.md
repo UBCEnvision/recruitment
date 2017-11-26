@@ -14,17 +14,19 @@ It made me realize that, as important as programming is, it’s only one part of
 
 Building on the previous article about technical sophistication, please familiarize yourself with these 3 tools: the command line, the text editor and version control.
 
-Read Chapter 1 of these 3 tutorials:
+Read **Chapter 1 **of these 3 tutorials:
 
 1. [Learn Enough Command Line](https://www.learnenough.com/command-line-tutorial)
 2. [Learn Enough Text Editor](https://www.learnenough.com/text-editor-tutorial)
 3. [Learn Enough Git](https://www.learnenough.com/git-tutorial)
 
+You don't need to remember every single detail in those articles, the point here is to give a high-level overview of the tools we are using and why we are using them.
+
 # Tools
 
 1. Install Sublime Text 3 by following the instructions in Chapter 2 of [Learn Enough Text Editor](https://www.learnenough.com/text-editor-tutorial)
 2. If you're on Windows 10, enable Bash: [https://www.windowscentral.com/how-install-bash-shell-command-line-windows-10](https://www.windowscentral.com/how-install-bash-shell-command-line-windows-10) before continuing.
-3. Now install git \(you don't need gitk\): https://scottiestech.info/2016/08/14/how-to-install-git-and-gitk-on-bash-on-ubuntu-on-windows-10/
+3. Now install git \(just git, don't install gitk\): [https://scottiestech.info/2016/08/14/how-to-install-git-and-gitk-on-bash-on-ubuntu-on-windows-10/](https://scottiestech.info/2016/08/14/how-to-install-git-and-gitk-on-bash-on-ubuntu-on-windows-10/)
 
 
 
