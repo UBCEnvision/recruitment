@@ -20,9 +20,7 @@ Read on for instructions on how to proceed.
 
 ## The Recruitment Process
 
-Our [website](https://www.ubcenvision.com) shows a list of projects we are working on right now. If you're interested in one or more projects, awesome! Let's begin.
-
-We'll assume that you're a beginner with zero to minimal experience with web development and version control. We'll need you to read some tutorials, set up some tools and complete a guided tech challenge. 
+Our [website](https://www.ubcenvision.com) shows a list of projects we are working on right now. If you're interested in one or more projects, awesome! We'll assume that you're a beginner with zero to minimal experience with web development and version control. Before joining the team, we'll need you to read some tutorials, set up some tools and complete a guided tech challenge.
 
 _If you're familiar with HTML and if 'forking a repo' and 'making a pull request' don't sound like gibberish to you, skip the tutorials and go straight to _[_The Challenge._](/the-challenge.md)
 
@@ -31,6 +29,8 @@ The entire recruitment process looks like this:
 1. Read articles and work on tutorials
 2. Pass technical challenge
 3. Meet with leads
+
+If that sounds like fun, [let's begin](/chapter1.md).
 
 
 
