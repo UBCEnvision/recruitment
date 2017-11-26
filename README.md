@@ -14,25 +14,23 @@ We thank you for your interest but unfortunately, we won't be able to accommodat
 
 ### Tech Roles
 
-However, we are **always** looking for coders and developers to join our team! We welcome people from all backgrounds \(engineering, arts, computer science etc.\). If you're passionate about coding and committed to learning new digital trends and emerging technologies, **we want you**. 
+However, we are **always** looking for coders and developers to join our team! We welcome students from all backgrounds \(engineering, arts, computer science etc.\). If you're passionate about coding and committed to learning new digital trends and emerging technologies, **we want you**.
 
 Read on for instructions on how to proceed.
 
 ## The Recruitment Process
 
-Our [website](https://www.ubcenvision.com) shows a list of projects we are working on right now. If you're interested in coding with our team for one or more projects, awesome! Let's begin.
+Our [website](https://www.ubcenvision.com) shows a list of projects we are working on right now. If you're interested in one or more projects, awesome! Let's begin.
 
-We'll assume that you're a beginner with zero to minimal experience with web development. We'll need you to read some tutorials, set up some tools and complete a guided tech challenge.  
+We'll assume that you're a beginner with zero to minimal experience with web development and version control. We'll need you to read some tutorials, set up some tools and complete a guided tech challenge. 
 
-The entire on-boarding process looks like this:
+_If you're familiar with HTML and if 'forking a repo' and 'making a pull request' don't sound like gibberish to you, skip the tutorials and go straight to _[_The Challenge._](/the-challenge.md)
 
-1. Read tutorials
+The entire recruitment process looks like this:
+
+1. Read articles and work on tutorials
 2. Pass technical challenge
 3. Meet with leads
-
-
-
-
 
 
 
