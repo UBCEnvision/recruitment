@@ -30,5 +30,11 @@ You don't need to remember every single detail in those articles, the point here
 
 ## Troubleshooting
 
-iF
+If you ever get stuck or run into an error message, the first thing you should do is Google. Here's a good quote from Box 5 of the Learn Enough Command Line tutorial:
+
+> In technology, a similar skill \(or, more accurately, set of skills\) exists in the form of _technical sophistication_. In addition to “hard skills” like familiarity with text editors and the Unix command line, technical sophistication includes “soft skills” like looking for promising menu items and knowing the kinds of search terms to drop into Google, along with an _attitude _of doing what it takes to make the machine do our bidding.
+
+If you're still having trouble after Googling and working on it for awhile, create a New Issue at [https://github.com/UBCEnvision/UBCEnvision.github.io/issues](https://github.com/UBCEnvision/UBCEnvision.github.io/issues) and our team will try to help! Describe the problem you're having and what you did to try and solve it.
+
+
 
