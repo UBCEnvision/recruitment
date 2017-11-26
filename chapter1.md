@@ -22,7 +22,9 @@ Read Chapter 1 of these 3 tutorials:
 
 # Tools
 
-1. Install either Sublime or Atom by following the instructions in Chapter 2 of [Learn Enough Text Edito](https://www.learnenough.com/text-editor-tutorial)r
+1. Install Sublime Text 3 by following the instructions in Chapter 2 of [Learn Enough Text Editor](https://www.learnenough.com/text-editor-tutorial)
+2. If you're on Windows 10, enable Bash: [https://www.windowscentral.com/how-install-bash-shell-command-line-windows-10](https://www.windowscentral.com/how-install-bash-shell-command-line-windows-10) before continuing.
+3. Now install git \(you don't need gitk\): https://scottiestech.info/2016/08/14/how-to-install-git-and-gitk-on-bash-on-ubuntu-on-windows-10/
 
 
 
