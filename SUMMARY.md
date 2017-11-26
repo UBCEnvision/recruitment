@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Recruitment Process](chapter1.md)
+* [Background & Tools](chapter1.md)
 * [The Challenge](the-challenge.md)
 

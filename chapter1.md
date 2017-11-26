@@ -28,5 +28,7 @@ You don't need to remember every single detail in those articles, the point here
 2. If you're on Windows 10, enable Bash: [https://www.windowscentral.com/how-install-bash-shell-command-line-windows-10](https://www.windowscentral.com/how-install-bash-shell-command-line-windows-10) before continuing.
 3. Now install git \(just git, don't install gitk\): [https://scottiestech.info/2016/08/14/how-to-install-git-and-gitk-on-bash-on-ubuntu-on-windows-10/](https://scottiestech.info/2016/08/14/how-to-install-git-and-gitk-on-bash-on-ubuntu-on-windows-10/)
 
+## Troubleshooting
+
 
 
