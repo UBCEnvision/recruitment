@@ -4,9 +4,35 @@ UBC Envision is the AIChE \(American Institute of Chemical Engineers\) student c
 
 UBC Envision is an umbrella organization for all our projects. We started the 2017-2018 academic year strong, with 50 new and returning members across 5 projects, increased faculty engagement and a new name that reflects the breadth and diversity of our team.
 
-Software and AI is revolutionizing many traditional fields, including chemical engineering. We recognize this trend and we are adapting. Digital technology and software development are playing an increasingly important role across all our projects.
+Software and AI are revolutionizing many traditional fields, including chemical engineering. We recognize this trend and we are adapting. As a tech-savvy team, digital technology and software development are playing an increasingly important role across all our projects.
 
 ## Recruitment
 
-We won't be able to accommodate everyone for lab-based roles due to limited physical space. However, we are **always** looking for coders and developers to join our team! We welcome people from all backgrounds \(engineering, arts, computer science etc.\). If you're passionate about coding and committed to learning new trends and emerging technologies, **we want you**.
+### Lab Roles
+
+We thank you for your interest but unfortunately, we won't be able to accommodate everyone for lab-based roles due to limited physical space. We currently do not have any openings for lab roles.
+
+### Tech Roles
+
+However, we are **always** looking for coders and developers to join our team! We welcome people from all backgrounds \(engineering, arts, computer science etc.\). If you're passionate about coding and committed to learning new digital trends and emerging technologies, **we want you**. 
+
+Read on for instructions on how to proceed.
+
+## The Recruitment Process
+
+Our [website](https://www.ubcenvision.com) shows a list of projects we are working on right now. If you're interested in coding with our team for one or more projects, awesome! Let's begin.
+
+We'll assume that you're a beginner with zero to minimal experience with web development. We'll need you to read some tutorials, set up some tools and complete a guided tech challenge.  
+
+The entire on-boarding process looks like this:
+
+1. Read tutorials
+2. Pass technical challenge
+3. Meet with leads
+
+
+
+
+
+
 
